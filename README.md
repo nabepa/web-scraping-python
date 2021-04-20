@@ -21,3 +21,5 @@ $ pip install lxml
 - 2_re.py: 정규 분포 패키지 re 사용법
 - 3_user_agent.py: 403 에러 회피 feat.헤더에 user agent string 설정하기
 - 4_bs4.py: BeautifulSoup4 기본 사용법
+- 5_bs4_webtoons.py: BeautifulSoup4을 이용해서 네이버 웬툰의 모든 제목 가져오기
+- 6_bs4_favwebtoon.py: BeautifulSoup4을 이용해서 가장 좋아하는 웬툰의 최신 10화의 제목, 링크 가져오고, 평균 평점 구하기
